@@ -1,7 +1,7 @@
 hypothesis==6.56.4
 httpx==0.23.1
 mypy==0.990
-numpy==1.21.5
+numpy==1.22.0
 pillow==9.3.0
 pytest==6.2.4
 pytest-httpserver==1.0.4
